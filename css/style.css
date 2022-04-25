@@ -113,10 +113,10 @@ padding: 10px 0;
     float: right;
 }
 .wire h1 {
-
+    padding: 0 122px 0 0;
 }
-.wire br {
-
+.cy {
+ color:#0076B6;
 }
 
 .text {
